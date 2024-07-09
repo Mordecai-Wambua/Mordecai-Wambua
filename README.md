@@ -41,7 +41,7 @@ I enjoy writing about technology and sharing my knowledge with the community. Ch
 -->
 
 ## GitHub Stats
-My GitHub Stats(https://github-readme-stats.vercel.app/api?username=Mordecai-Wambua&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mordecai-Wambua&show_icons=true&theme=radical)
 
 ## Get In Touch
 - **LinkedIn**: https://www.linkedin.com/in/mordecai-wambua-2b474a273/
