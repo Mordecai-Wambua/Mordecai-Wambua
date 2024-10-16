@@ -10,8 +10,9 @@ I'm a passionate developer with a keen interest in building innovative and effic
 
 ## Tech Stack
 - **Languages**: C, Python, Java, JavaScript, HTML5, CSS, C++
-- **Frameworks**: Flask, React
-- **Databases**: MySQL
+- **Frameworks**: Flask, React, Express
+- **Stack**: MERN
+- **Databases**: MySQL, MongoDB
 
 <!--
 ## Projects
