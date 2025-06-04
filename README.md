@@ -4,7 +4,7 @@
 I'm a passionate developer with a keen interest in building innovative and efficient solutions. With a background in Software Engineering, I have honed my skills in various technologies and am always eager to learn more. My goal is to contribute to impactful projects and collaborate with like-minded individuals.
 
 - 💼 Currently studying at **MultiMedia University of Kenya** pursuing **BSc Software Engineering**
-- 🌱 Currently learning at **ALX Africa** current learning Software Engineering**
+- 🌱 **ALX Africa** Software Engineering Certifief
 - 👯 Looking to collaborate on **Website Development Projects**
 - 📫 Reach me at **mordecaingumbau@gmail.com**
 
