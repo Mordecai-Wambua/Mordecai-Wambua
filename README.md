@@ -1,6 +1,8 @@
-# 👋 Hi there, I'm Mordecai Wambua
+# 👋 Hi, I’m Mordecai Wambua  
+### 🔑 Backend Specialist | API Architect | Cloud-Native Developer  
 
----
+I design **scalable Node.js APIs**, optimize **MongoDB/Redis** performance, and deploy **containerized microservices**. Passionate about solving complex problems with clean, maintainable code.
+
 
 ## 📝 About Me
 I’m a backend-heavy MERN-stack engineer passionate about designing and implementing scalable, secure web applications. With a foundation in Software Engineering and hands-on experience building RESTful APIs, microservices, and full-stack projects, I strive to deliver production-ready solutions that solve real-world problems.
@@ -12,7 +14,6 @@ I’m a backend-heavy MERN-stack engineer passionate about designing and impleme
 - 🤝 Open to collaboration on challenging web-development and API-architecture projects
 - 📫 Reach me at **mordecaingumbau@gmail.com**
 
----
 
 ## 🔑 What I Do
 - **Backend Architecture & APIs**  
@@ -25,8 +26,6 @@ I’m a backend-heavy MERN-stack engineer passionate about designing and impleme
   Build responsive React frontends with functional components, hooks, and state management (Redux Toolkit, Context API). Ensure accessibility, code splitting, and performance best practices.
 - **Testing & Quality Assurance**  
   Write unit and integration tests with Jest, Mocha/Chai for the backend, and React Testing Library/Cypress for frontend. Maintain ≥80% test coverage and enforce linting/formatting with ESLint and Prettier.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +49,13 @@ I’m a backend-heavy MERN-stack engineer passionate about designing and impleme
 - **Monitoring & Logging**: Winston, Morgan, Prometheus (exploring)  
 - **Project Management**: Jira, Trello, Notion  
 
----
+
+## 🌱 Currently Exploring  
+- **NestJS** (for enterprise-grade APIs)  
+- **Kubernetes** (advanced orchestration)  
+- **GraphQL Federation** (microservices architecture)  
+- **AWS Lambda** (serverless patterns)
+
 
 <!--
 ## 🚀 Notable Projects
@@ -84,16 +89,20 @@ My personal portfolio showcasing projects.
 -->
 
 ## 📈 GitHub Stats
+<!--
 ![Mordecai’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mordecai-Wambua&show_icons=true&theme=radical&hide=contribs,prs)
+-->
+![Mordecai’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mordecai-Wambua&show_icons=true&theme=radical&hide=issues&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500&border_color=FFA500&bg_color=0D1117&custom_title=Mordecai's+Backend+Focus)
 
----
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mordecai-Wambua&layout=compact&theme=radical&hide=html,css&title_color=FFA500)
+
 
 ## 📫 Connect With Me
 - **📧 Email**: mordecaingumbau@gmail.com  
 - **💼 LinkedIn**: [linkedin.com/in/mordecai-wambua-2b474a273](https://www.linkedin.com/in/mordecai-wambua-2b474a273/)  
 - **🌐 Portfolio**: [mordecaiwambua.me](https://www.mordecaiwambua.me/)  
-- **🐦 Twitter**: [twitter.com/your_handle](https://twitter.com/your_handle) (if applicable)
 
 ---
 
-> “Building reliable, scalable backend systems that power seamless user experiences is not just my job—it’s my passion.”  
+> "First solve the problem, then write the code." — John Johnson
