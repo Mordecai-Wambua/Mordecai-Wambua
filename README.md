@@ -33,6 +33,6 @@
 ---
 
 ## 📫 Connect With Me
-- **🌐 Portfolio**: [mordecaiwambua.me](https://www.mordecaiwambua.me/)  
+- **🌐 Portfolio**: [portfolio](https://revised-portfolio-262014616557.europe-west1.run.app/)  
 - **💼 LinkedIn**: [linkedin.com/in/mordecai-wambua](https://www.linkedin.com/in/mordecai-wambua-2b474a273/)  
 - **📧 Email**: mordecaingumbau@gmail.com
